@@ -1,0 +1,15 @@
+.env
+data/state.json
+__pycache__/
+*.pyc
+
+
+# Ignore the massive browser data folder
+data/
+# Ignore python cache
+__pycache__/
+# Ignore environment variables (security!)
+.env
+# Ignore OS generated files
+Thumbs.db
+DS_Store
